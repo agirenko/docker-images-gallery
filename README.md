@@ -21,8 +21,6 @@ UNSPLASH_KEY=2MJvApIkV13hfg2LmQlneILfHoJ2ttlzSdPKefGOyKM
 ```
 
 - Save modified **.env.local** file
-My values of Aug 15, 2022
-Access key: 2HtJ4v1DbLYXU589CRPjn0LraZwWcYgwTRkPhe-N054
-Secret key: 89ncKEJ5aavjMtzz68V6rmIxElaP-MGX8qiC7DiGlX8
+
 
 
