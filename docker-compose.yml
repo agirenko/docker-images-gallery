@@ -7,7 +7,12 @@ services:
     volumes:
       - /app/node_modules
       - ./frontend:/app
+# parameter below is to update folder quickly (instantly)
+    environment:
+      - CHOKIDAR_USEPOLLING=true
   api:
     build: ./api
     ports:
       - '5050:5050'
+    volumes:
+      - ./api:/app
